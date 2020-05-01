@@ -1,0 +1,46 @@
+.header {
+  background: rgba(255, 255, 255, 0.98);
+  overflow: hidden;
+  height: 60px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.02);
+}
+
+.header-ul {
+  display: flex;
+  height: 60px;
+  margin: 0;
+  list-style: none;
+}
+
+.header-ul li {
+  line-height: 50px;
+}
+
+.header-logo {
+  padding-top: 0.4rem;
+  color: #1e90ff;
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+.header-txt {
+  font-size: 0.9rem;
+  color: #999;
+  padding-left: 0.8rem;
+  padding-top: 0.5rem;
+}
+
+.ant-menu-horizontal {
+  height: 60px;
+  border-bottom: none !important;
+}
+
+.ant-menu-item {
+  font-size: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.ant-menu-horizontal > .ant-menu-item {
+  top: 7px;
+}

@@ -1,0 +1,14 @@
+{
+  "/Users/chenxi/xii/代码区2/react_blog/service/app/controller/default/home.js": {
+    "egg": "/Users/chenxi/xii/代码区2/react_blog/service/node_modules/egg/index.js"
+  },
+  "/Users/chenxi/xii/代码区2/react_blog/service/node_modules/egg-core/lib/utils/index.js": {
+    "/Users/chenxi/xii/代码区2/react_blog/service/app/router.js": "/Users/chenxi/xii/代码区2/react_blog/service/app/router.js"
+  },
+  "/Users/chenxi/xii/代码区2/react_blog/service/app/router.js": {
+    "./router/default": "/Users/chenxi/xii/代码区2/react_blog/service/app/router/default.js"
+  },
+  "/Users/chenxi/xii/代码区2/react_blog/service/node_modules/egg-cluster/lib/app_worker.js": {
+    "http": "http"
+  }
+}

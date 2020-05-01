@@ -1,0 +1,14 @@
+.logo {
+  height: 32px;
+  /* background: rgba(255, 255, 255, 0.2); */
+  background: url('../img/sign.png');
+  background-repeat: no-repeat;
+  margin: 20px;
+  margin-bottom: 15px;
+}
+
+.logo .text {
+  margin-left: 50px;
+  color: white;
+  font-size: 18px;
+}
